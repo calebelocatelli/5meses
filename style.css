@@ -1,0 +1,22 @@
+
+body {
+ background-color: #ffabc6;
+}
+h1{
+    color: #c87993;
+    text-align: center
+}
+h2{
+    color:#da8aa4;
+    text-align: center
+}
+p{
+    color:#000000;
+     text-align:justify ;
+     text-align: center
+}
+    .centralizada {
+        display: block;
+        margin: 0 auto;
+        max-width: 100%;
+    }
